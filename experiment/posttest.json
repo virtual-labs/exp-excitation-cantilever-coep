@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following conditions cause rectification of vibration inputs?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Heating",
+        "b": "Low voltage",
+        "c": "High voltage",
+        "d": "Low current"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What does silicon accelerometers use for proof mass sensing and for rebalancing?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pivot",
+        "b": "Flexure",
+        "c": "Metalised wafers",
+        "d": "Single crystal silicon frame"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which type of rebalancing technique use voltage applied to pendulum and electrode for correction?",
+      "answers": {
+        "a": "Charge forcing",
+        "b": "Voltage forcing",
+        "c": "Current forcing",
+        "d": "Potential forcing"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The second law of motion gives the measure of which of the following?",
+      "answers": {
+        "a": "Force",
+        "b": "Acceleration",
+        "c": "Momentum",
+        "d": "Angular Momentum"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In vibration isolation system, if &omega;/&omega;<sub>n</sub> < 2, then for all values of damping factor, the transmissibility will be",
+      "answers": {
+        "a": "less than unity",
+        "b": "equal to unity",
+        "c": "greater than unity",
+        "d": "zero "
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
