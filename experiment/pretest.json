@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What does the accelerometer measure?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Acceleration",
+        "b": "Mass",
+        "c": "Velocity",
+        "d": "Distance"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the output given by an accelerometer if the instrument is accelerated upward with an acceleration of 7g?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "5g",
+        "b": "8g",
+        "c": "6g",
+        "d": "6.5g"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which accelerometer uses torquer coil and pick off supported by a flexure to measure acceleration?",
+      "answers": {
+        "a": "MEMS accelerometer",
+        "b": "Vibrating beam accelerometer",
+        "c": "Mechanical accelerometer",
+        "d": "Flexure pivot accelerometer"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why do accelerometers that include fluid damping exhibit reduced damping?",
+      "answers": {
+        "a": "State of fluid",
+        "b": "Density",
+        "c": "Thermal characters",
+        "d": "Pressure"
+      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is true with respect to flexure pivot accelerometers?",
+      "answers": {
+        "a": "Flexure must provide maximum resistance in the direction other than input axis",
+        "b": "Torquer coil current measures the acceleration",
+        "c": "Unbalanced accelerometer type",
+        "d": "Flexure must provide maximum resistance in the direction of input axis"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
